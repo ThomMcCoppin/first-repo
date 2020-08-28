@@ -1,0 +1,75 @@
+<html>
+	<head>
+		<title>
+			Definitely my first website owo
+		</title>
+		<style>
+			
+			p {
+				color: brown;
+				font-size: 22px;
+				
+			}
+			
+			/* this is a chicken wing */
+			/* this is an applebees */
+			/* this is an eskimo */
+			/* this is a grandma */
+			
+			img {
+				width: 200px;
+				height: 200px;
+				border-style: solid;
+				border-width: 4px;
+				border-color: rebeccapurple;
+				border-radius: 50px;
+				display: block;
+			}
+			
+			body {
+				background-image: url("https://pbs.twimg.com/profile_images/907958185394184192/TakPZDxd.jpg");
+				background-repeat: no-repeat;
+				background-size: cover;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<p>
+			get stickbugged lol
+			</br>
+			 ___ </br>
+			/\/\/\
+		</p>
+			<h1>The Tragedy of Darth Plagueis</h1>
+		<p>
+			Have you ever heard the tragedy of Darth Plageuis the Wise?
+			I thought not, its not a story the Jedi would tell you, its a sith legend. 
+			Darth Plagueis was a sith lord so wise and powerful that he could influence the midi-chlorians to create life itself. 
+			Eventually, he got so powerful that the only thing he was afraid of was losing his power, which of course he did... 
+			
+		</p>
+		<h4>¿Quieres?</h4>
+		<h2>A well-quoted scene</h2>
+		<ul>
+			<li>Ayaya?</li>
+			<li>Aya, one character too many.</li>
+			<li>Ayaya! Ayaya!</li>
+			<li>Ayaya!</li>
+			<li>south text</li>
+		</ul>
+		<h2>Best Three Animes</h2>
+		<ol>
+			<li>JoJo's Bizarre Adventures</li>
+			<li>Cory in the House</li>
+			<li>TF2</li>
+		</ol>
+		<p>
+			Click Here for Link! jk gottem try the image.
+		</p>
+		<hr />
+		<a href="https://www.youtube.com/watch?v=8ybW48rKBME" target="_blank">
+			<img src="https://i.kym-cdn.com/entries/icons/original/000/034/800/Get_Stick_Bugged_Banner.jpg" />
+		</a>
+	</body>
+</html>
